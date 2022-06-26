@@ -1,0 +1,15 @@
+{
+  "name": "spinergie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "replaceJson.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
